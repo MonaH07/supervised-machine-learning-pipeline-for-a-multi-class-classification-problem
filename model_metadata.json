@@ -1,0 +1,6 @@
+{
+
+	"framework":"XGBoost",
+	"model_file":"model.ubj"
+
+}
